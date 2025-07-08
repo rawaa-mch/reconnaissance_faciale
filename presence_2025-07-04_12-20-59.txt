@@ -1,0 +1,25 @@
+Rapport de présence - 2025-07-04_12-20-59
+==================================================
+
+Total élèves: 8
+Présents: 5
+Absents: 7
+Taux de présence: 62.5%
+
+Élèves présents:
+------------------------------
+✓ Douaee Tabit
+✓ Hiba Mrzak
+✓ Mohamed Jannane
+✓ Othman Fakir
+✓ Zakaria Hrida
+
+Élèves absents:
+------------------------------
+✗ Aya Asrir
+✗ Douae Tabit
+✗ Ghita Harzafi
+✗ Hassaniya Elfalah
+✗ Hiba Merzak
+✗ Rawaa Mchaabat
+✗ Salma Kortaf
